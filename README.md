@@ -1,4 +1,4 @@
-[![Cayt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayt-schlichting-solv&layout=compact&theme=nightowl&count_private=true)](https://github.com/cayt-schlichting-solv/github-readme-stats)
+<!-- [![Cayt's GitHub stats](https://github-readme-stats.vercel.app/api?username=cayt-schlichting-solv&layout=compact&theme=nightowl&count_private=true)](https://github.com/cayt-schlichting-solv/github-readme-stats) -->
 
 <!-- Commenting out as Top Languages cannot work w/ private repos.  I would need to deploy my own Vercel instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 
